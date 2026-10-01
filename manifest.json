@@ -1,5 +1,5 @@
 {
-  "name": "MIDI-THRU-BLE Firmware",
+  "name": "MIDI-THRU7-BLE Firmware",
   "version": "3.0",
   "new_install_prompt_erase": true,
   "builds": [
